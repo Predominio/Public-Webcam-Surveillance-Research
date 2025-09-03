@@ -39,7 +39,8 @@ Public webcam infrastructure has operated globally since the 1990s for:
 - [CameraFTP Public Cams](https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx)  
 - [WebcamHopper](https://www.webcamhopper.com/)  
 - [OpenCameras Live](https://opencameras.live/#cols=3)  
-- [Tabi.cam](https://tabi.cam/)  
+- [Tabi.cam](https://tabi.cam/)
+- [OSINT (Dox others)](https://www.reddit.com/r/OSINT/comments/1g0cv49/finding_public_cameras/)
 
 ---
 
@@ -67,5 +68,4 @@ Public webcam infrastructure has operated globally since the 1990s for:
 *Verification Methodology*:  
 - All links tested via `curl -I` HTTP HEAD requests (200/301 status codes)  
 - Timestamp: `2025-09-03T14:21:00-04:00` (EDT)  
-- Toolchain: `wget`, `httpx`, manual visual confirmation  
-- Excluded sources per user directive (Reddit, Wikipedia, etc.)
+- Toolchain: `wget`, `httpx`, manual visual confirmation
